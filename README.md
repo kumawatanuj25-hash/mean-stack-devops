@@ -72,9 +72,10 @@ The application is accessible through port 80 using the EC2 public IP address.
 
 ---
 
-## Live Application
+## Live Application 
 
-http://16.171.47.170
+http://16.171.47.170 
+http://13.60.245.135
 
 ---
 
