@@ -79,6 +79,14 @@ http://13.60.245.135
 
 ---
 
+## Screen Shots 
+
+![docker imgs](https://github.com/user-attachments/assets/ab946c15-4ae1-419a-adfb-c63134d6b786)
+![WhatsApp Image 2026-02-24 at 2 52 05 AM](https://github.com/user-attachments/assets/f4e6a7db-807b-4587-bfd5-378890855edd) 
+
+
+
+
 ## Author
 
 Anuj Kumawat
